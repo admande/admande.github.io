@@ -1,0 +1,157 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
+
+body {
+  font-family: 'Roboto Slab', serif;
+}
+
+.menu-text {
+  font-size: 20px;
+}
+
+h1 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 36px;
+}
+
+.top-bar {
+  background-color: #37becc;
+  color: white;
+  height: 75px;
+  padding: 20px;
+}
+
+.top-bar li {
+  background-color: #37becc;
+}
+
+.top-bar li a {
+  background-color: #37becc;
+  color: white;
+}
+
+#apply a {
+  background-color: #ed1a7b;
+}
+
+#submit {
+  background-color: #84ce15;
+  margin-top: 15px;
+}
+
+.contact {
+  background-color: #E5F3F4;
+  text-align: center;
+}
+
+.contact h1 {
+  padding-top: 20px;
+  color: #37becc;
+}
+
+
+.contact-pee {
+  height: 10px;
+  margin: none;
+  padding: none;
+  background-color: #E5F3F4;
+  color:#777777;
+  font-size: 15px;
+}
+.contact div {
+  background-color: #E5F3F4;
+}
+
+hr {
+  width: 83%;
+}
+
+.contact_form {
+  padding-top: 20px;
+}
+
+#campus {
+  background-image: url("/images/background-1.jpg");
+  width: auto;
+  height: 375px;
+}
+
+.campus_pee {
+  color: #eeeeee;
+  margin: 0;
+  padding: 0;
+
+}
+
+#campus_h1 {
+  padding-top: 50px;
+  color: #eeeeee;
+}
+
+#online_h1 {
+  color: #37becc;
+  padding-top: 20px;
+}
+
+#online_img {
+  width: 75%;
+  display: block;
+}
+
+.online_pee {
+  padding-bottom: 25px;
+  color: #777777;
+}
+
+#online_btn {
+  background-color: #ed1a7b;
+  margin: 20px;
+}
+
+#hire {
+  background-image: url("/images/background-2.jpg");
+  width: auto;
+  height: 325px;
+  background-position: 50%;
+}
+
+#partners {
+  background-color: #1c2224;
+  overflow: hidden;
+}
+
+#partners_h1 {
+  color: #37becc;
+  padding-top: 25px;
+}
+
+.box {
+  margin: 20px 0px;
+}
+
+.partner {
+  background-color: #272C2E;
+}
+
+.box p {
+  background-color: #272C2E;
+  padding: 0 10px 10px 10px;
+  margin: 5px;
+  color: #777777;
+}
+
+.box img {
+  background-color: #272C2E;
+}
+
+.company {
+  padding: 10px;
+  background-color: #272C2E;
+}
+
+.string {
+  font-family: Arial, sans-serif;
+}
+
+.columns.text-left.button.success#submit {
+  margin-top: 0px;
+}
